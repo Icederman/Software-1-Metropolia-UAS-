@@ -3,4 +3,4 @@
 **Safwan MD Solaiman**
 
 ## Module 1 & 2
-Completed both of them
+Completed exercise 1 and 2 related to both modules
