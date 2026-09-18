@@ -13,3 +13,6 @@ Completed exercise 1,2,3,4,5
 
 # Module 5
 Completed exercise 1,2,3,4,5,6,7
+
+# Module 6
+Completed exercise 1,2,3,4,5
