@@ -22,3 +22,6 @@ Completed exercise 1,2,3,4,5,6,7
 
 # Module 8
 Completed exercise 1,2,3,4
+
+# Module 9
+Completed exercise 1,2,3,4,5
